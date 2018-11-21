@@ -8,6 +8,8 @@ namespace personClass
 {
     class PartTimeEmployee:BasePerson
     {
+
+
         public int  PayPerH { get; set; }
         public int Hours { get; set; }
 
@@ -19,6 +21,7 @@ namespace personClass
             FullName();
             Console.WriteLine($"Pay: {PayPerH}$ Hours: {Hours}  ");
         }
+
 
     }
 }
