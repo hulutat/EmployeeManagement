@@ -14,6 +14,8 @@ namespace personClass
 
         public void EGetPayFN()
         {
+
+
             FullName();
             Console.WriteLine($"Pay: {PayPerH}$ Hours: {Hours}  ");
         }
