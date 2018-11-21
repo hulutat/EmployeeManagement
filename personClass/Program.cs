@@ -10,6 +10,7 @@ namespace personClass
     {
         static void Main(string[] args)
         {
+
             Manager Marius = new Manager();
             Marius.Name = "Marius";
             Marius.Lastname = "Huluta";
@@ -26,6 +27,7 @@ namespace personClass
             Teo.PayPerH = 30;
             Teo.Hours = 40;
             Teo.EGetPayFN();
+
 
             PartTimeEmployee Andrei = new PartTimeEmployee();
             Andrei.Name = "Andrei";
