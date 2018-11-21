@@ -12,7 +12,5 @@ namespace personClass
         public string Lastname { get; set; }
         public int Age { get; set; }
 
-        
-
     }
 }
