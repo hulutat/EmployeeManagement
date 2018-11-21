@@ -1,0 +1,7 @@
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\bin\Debug\personClass.exe.config
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\bin\Debug\personClass.exe
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\bin\Debug\personClass.pdb
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\obj\Debug\personClass.csprojAssemblyReference.cache
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\obj\Debug\personClass.csproj.CoreCompileInputs.cache
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\obj\Debug\personClass.exe
+F:\Projects\EmployeeManagement-master\EmployeeManagement-master\personClass\obj\Debug\personClass.pdb
