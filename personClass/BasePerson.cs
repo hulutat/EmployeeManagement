@@ -12,7 +12,10 @@ namespace personClass
         public string Lastname { get; set; }
         public int Age { get; set; }
 
-        
+        public  void FullName()
+        {
+            Console.WriteLine($"Name: {Name} Lastname: {Lastname} Age: {Age} ");
+        }
 
     }
 }

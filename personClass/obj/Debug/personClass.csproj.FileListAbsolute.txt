@@ -1,0 +1,6 @@
+D:\Andrei\personClass\personClass\bin\Debug\personClass.exe.config
+D:\Andrei\personClass\personClass\bin\Debug\personClass.exe
+D:\Andrei\personClass\personClass\bin\Debug\personClass.pdb
+D:\Andrei\personClass\personClass\obj\Debug\personClass.csprojResolveAssemblyReference.cache
+D:\Andrei\personClass\personClass\obj\Debug\personClass.exe
+D:\Andrei\personClass\personClass\obj\Debug\personClass.pdb
