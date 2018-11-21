@@ -18,6 +18,7 @@ namespace personClass
             Marius.Days = 20;
             Marius.MGetPayFN();
 
+
             PartTimeEmployee Teo = new PartTimeEmployee();
             Teo.Name = "Teo";
             Teo.Lastname = "Huluta";
